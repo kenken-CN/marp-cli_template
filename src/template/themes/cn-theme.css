@@ -1,0 +1,54 @@
+/* cn-theme.css */
+/* @theme cn-theme */
+
+footer {
+    text-align: center; /* フッター内のコンテンツを中央寄せ */
+    width: 100%; /* フッター要素の幅をスライド全体に広げる */
+    position: fixed; /* フッターを絶対配置にする（テーマによっては不要な場合も） */
+    bottom: 15px; /* 下端に配置 */
+    left: 0; /* 左端に配置 */
+    }
+
+footer img {
+    display: block; /* 画像をブロック要素にする */
+    margin: 0 auto; /* 左右マージンを自動調整して中央寄せ */
+    height: 13px; /* 画像の高さ */
+}
+
+section {
+    width: 1280px;
+    height: 720px;
+    justify-content: start;
+}
+
+.title{
+    top: -100px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+    size: 20px;
+}
+
+.main{
+    background-color: black;
+    color: white;
+    width: 70%;
+    padding: 5px;
+    font-size: 30px;        
+    margin-bottom: 20px;
+}
+
+.sub{
+    background-color: white;
+    width: 50%;
+    padding: 1px;
+    size: 15px;
+}
+
+.icon{
+    position: relative;
+    size: 10%;
+    top: -190px;
+    left: 750px; 
+}

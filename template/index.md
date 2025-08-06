@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: yKicchan
+theme: kenken-CN
 paginate: true
-image: https://yKicchan.github.io/awesome-marp-template/{{PATH}}/index.png
+image: https://kenken-CN.github.io/marp-cli_template/{{PATH}}/index.png
 title:
 description:
 keywords:

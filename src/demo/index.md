@@ -1,8 +1,10 @@
 ---
 marp: true
-theme: yKicchan
+theme: kenken-CM
+style: |
+  @import 'index.css';
 paginate: true
-image: https://yKicchan.github.io/awesome-marp-template/demo/index.png
+image: https://kenken-CN.github.io/marp-cli_template/demo/index.png
 title: Demo slide
 description: Preview test of slides created with Marp.
 keywords: Marp
@@ -14,7 +16,7 @@ keywords: Marp
 
 ![bg right w:256](./images/marp.png)
 
-<!-- _footer: "[Repository](https://github.com/yKicchan/awesome-marp-template)" -->
+<!-- _footer: "[Repository](https://github.com/kenken-CN/marp-cli_template)" -->
 <!-- _paginate: false -->
 
 ---
